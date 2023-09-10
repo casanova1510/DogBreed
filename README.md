@@ -2,7 +2,7 @@
 
 Welcome to the Dog Breed Identification project! This is an exciting endeavor to accurately classify dog breeds using machine learning techniques. Whether you're a dog lover, a data enthusiast, or an AI enthusiast, you're in the right place.
 
-![Dog Breed Identification]([link-to-your-project-image.jpg]([https://drive.google.com/file/d/1hNY366IqJTD2B3e0rML5-93K4n1mt-4V/view?usp=sharing](https://images.app.goo.gl/ZNjBz8gwGMr9wJSE8)))
+![Dog Breed Identification]([link-to-your-project-image.jpg](["C:\Users\HP\Downloads\dogo.png"))
 
 ## Table of Contents
 - [About the Project](#about-the-project)
