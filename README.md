@@ -1,4 +1,3 @@
-# DogBreed
 # Dog Breed Identification 🐾
 
 Welcome to the Dog Breed Identification project! This is an exciting endeavor to accurately classify dog breeds using machine learning techniques. Whether you're a dog lover, a data enthusiast, or an AI enthusiast, you're in the right place.
